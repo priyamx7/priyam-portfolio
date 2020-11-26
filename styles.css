@@ -9,7 +9,6 @@
 body {
 	margin: 0px;
 	font-family: 'Merriweather', serif;
-	line-height: 1.7rem;
 }
 
 * {
@@ -25,6 +24,7 @@ hr {
 	padding-left: 1rem;
 	padding-right: 1rem;
 	letter-spacing: 0.05rem;
+	line-height: 1.7rem;
 }
 
 .container-center{
@@ -144,6 +144,10 @@ hr {
 .footer .footer-header {
 	font-weight: bold;
 	font-size: large;
+}
+
+.footer ul {
+    padding-inline-start: 0;
 }
 
 .blog-read-time {

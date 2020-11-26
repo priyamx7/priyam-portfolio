@@ -149,6 +149,12 @@ hr {
     padding-inline-start: 0;
 }
 
+/** Miscellaneous **/
+
 .blog-read-time {
 	margin-left: 1rem;
+}
+
+.project-h1 {
+	line-height: 2.5rem;
 }

@@ -35,7 +35,7 @@ hr {
 /** Links **/
 .link{
 	text-decoration: none;
-	padding: 0.5rem 1rem;
+	padding: 0.5rem;
 }
 
 .link-primary {
@@ -95,7 +95,7 @@ hr {
 }
 
 .hero .hero-img {
-	max-width: 330px;
+	max-width: 310px;
 	display: block;
 	margin: auto;
 }
@@ -133,7 +133,6 @@ hr {
 	max-width: 700px;
 	margin: auto;
 	text-align: center;
-	letter-spacing: 0.05rem;
 	color: #fff;
 }
 

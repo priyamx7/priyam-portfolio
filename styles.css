@@ -2,15 +2,15 @@
 
 :root {
 	--primary-color:#34D399;
-	--off-black: #0C0C0C; /* For light theme use this color here - #F3F4F6 */
+	--off-black: #F3F4F6; /* For light theme use this color here - #F3F4F6 */
     --dark-gray: #6B7280;
 }
 
 body {
 	margin: 0px;
 	font-family: 'Merriweather', serif;
-	color: #fff; /* change/remove this when converting to light theme */
-	background: #000; /* change/remove the bg for light theme*/
+	color: #000; /* change/remove this when converting to light theme */
+	background: #fff; /* change/remove the bg for light theme*/
 }
 
 * {
